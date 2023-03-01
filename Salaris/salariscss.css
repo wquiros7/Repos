@@ -1,0 +1,41 @@
+body{
+    display: block;
+    flex-direction: row;
+    background-color: white ;
+    color: black;
+}
+
+#principal {
+    height: 400px;
+    width: 300px;
+    text-align:center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    font-family: Verdana;
+    font-size: large;
+    color: darkcyan;
+   
+}
+#secundario {
+     height: 600px;
+     width: 300px;
+     margin:0px auto;
+}
+
+#modal-body1{
+    height: 500px;
+    width: 100%;
+    overflow-y: auto;
+    text-align: left;
+    font-size: small;
+  }
+
+#Titulo{
+    text-align:center;
+    height: 300px;
+    width: 300px;
+  }
+
+
+  
